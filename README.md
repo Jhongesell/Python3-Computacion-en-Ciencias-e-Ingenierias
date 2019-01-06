@@ -1,5 +1,6 @@
 # Python3-Computacion-en-Ciencias-e-Ingenierias
-Verano 2019
+Este curso se pone a dispoción desde verano 2019
+##Temario general
 ✅ Entendiendo los entornos virtuales: Vamos a crear entornos virtuales, gestionarlos adecuadamente en los sistemas operativos que se venga utilizando pudiendo ser para GNU/Linux (Ubuntu, Elementary OS, Lubuntu, Xubuntu) o de la familia Windows (7, 8, 10); también es posible correrlo sobre MAC OS X
 ✅ Instalando las librerías necesarias: Se enseñará la instalación de librerías y cómo acceder a ellas , conda cuenta con un total de 190 librerías, en caso no se encuentre alguna disponible se podrá instalar mediante el PIP (Packaging Install Python)
 ✅ Uso básico de Python: Definiciones desde lo básico en Python, Que es una variable local, variable global, impresión de resultados, tipos de elementos, listas, tuplas, diccionarios, programacción estructurada, lógica booleana, definición de funciones en python, introducción a la programación orientada a objectos, clases (métodos e instancias)
